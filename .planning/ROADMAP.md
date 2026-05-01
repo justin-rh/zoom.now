@@ -29,7 +29,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Zoom Marketplace app is registered with Team Chat feature enabled and `chat_message.sent` event subscription saved (requires endpoint validation to pass)
   4. Webhook signature verification rejects requests with invalid HMAC signatures and accepts valid ones (raw body preserved — not parsed JSON)
   5. All credentials and configuration (Zoom client ID/secret, bot JID) are supplied via Railway env vars with no hardcoded values in source
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Create test stubs and all project files (index.js, package.json, .env.example, .gitignore, railway.toml); npm install; tests green
+- [ ] 01-02-PLAN.md — Deploy to Railway, complete Zoom Marketplace app registration, pass URL validation challenge
 
 ### Phase 2: Core Detection & Reply
 **Goal**: Users can type a ServiceNow ticket number in any channel the bot monitors (or in a DM) and receive a single bot reply with a clickable link to the ticket
@@ -69,7 +73,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/TBD | Not started | - |
+| 1. Foundation | 0/2 | Not started | - |
 | 2. Core Detection & Reply | 0/TBD | Not started | - |
 | 3. Noise Control | 0/TBD | Not started | - |
 | 4. Production Rollout | 0/TBD | Not started | - |
