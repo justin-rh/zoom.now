@@ -32,7 +32,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 2 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Create test stubs and all project files (index.js, package.json, .env.example, .gitignore, railway.toml); npm install; tests green
+- [x] 01-01-PLAN.md — Create test stubs and all project files (index.js, package.json, .env.example, .gitignore, railway.toml); npm install; tests green
 - [ ] 01-02-PLAN.md — Deploy to Railway, complete Zoom Marketplace app registration, pass URL validation challenge
 
 ### Phase 2: Core Detection & Reply
@@ -73,7 +73,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/2 | Not started | - |
+| 1. Foundation | 1/2 | In progress | - |
 | 2. Core Detection & Reply | 0/TBD | Not started | - |
 | 3. Noise Control | 0/TBD | Not started | - |
 | 4. Production Rollout | 0/TBD | Not started | - |
