@@ -55,24 +55,22 @@
 
 ## Traceability
 
-*(Filled by roadmapper)*
-
-| REQ-ID | Phase |
-|--------|-------|
-| INFRA-01 | — |
-| INFRA-02 | — |
-| INFRA-03 | — |
-| INFRA-04 | — |
-| INFRA-05 | — |
-| DETECT-01 | — |
-| DETECT-02 | — |
-| DETECT-03 | — |
-| DETECT-04 | — |
-| BOT-01 | — |
-| BOT-02 | — |
-| BOT-03 | — |
-| BOT-04 | — |
-| BOT-05 | — |
-| BOT-06 | — |
-| DEPLOY-01 | — |
-| DEPLOY-02 | — |
+| REQ-ID | Phase | Status |
+|--------|-------|--------|
+| INFRA-01 | Phase 1 | Pending |
+| INFRA-02 | Phase 1 | Pending |
+| INFRA-03 | Phase 1 | Pending |
+| INFRA-04 | Phase 1 | Pending |
+| DEPLOY-01 | Phase 1 | Pending |
+| INFRA-05 | Phase 2 | Pending |
+| DETECT-01 | Phase 2 | Pending |
+| DETECT-02 | Phase 2 | Pending |
+| DETECT-03 | Phase 2 | Pending |
+| DETECT-04 | Phase 2 | Pending |
+| BOT-01 | Phase 2 | Pending |
+| BOT-02 | Phase 2 | Pending |
+| BOT-03 | Phase 2 | Pending |
+| BOT-04 | Phase 2 | Pending |
+| BOT-05 | Phase 3 | Pending |
+| BOT-06 | Phase 3 | Pending |
+| DEPLOY-02 | Phase 4 | Pending |
